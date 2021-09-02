@@ -1,5 +1,11 @@
 # Web-version-library-management-system
+**Development Platform Overview**
+
 Implemented in java, JavaScripts, XML and MySQL.
+
+This system uses a B-S architecture. The chosen backend database is MySQL.
+The software development platform is MyEclipse as well as MySQL.
+Its software runtime platform is apache-tomcat-7.0.81-windows-x64
 
 # Features
 **Administrator**
